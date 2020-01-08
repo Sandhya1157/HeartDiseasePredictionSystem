@@ -1,0 +1,55 @@
+{
+  "content": [
+    {
+      "head": "Heart Disease",
+      "text": [
+        "Heart disease generally refers to conditions that involve narrowed or blocked blood vessels that can lead to a heart attack, chest pain (angina) or stroke. Other heart conditions, such as those that affect your heart's muscle, valves or rhythm, also are considered forms of heart disease.",
+        "Most people survive their first heart attack and return to their normal lives, enjoying many more years of productive activity. But experiencing a heart attack does mean that you need to make some changes. The medications and lifestyle changes that your doctor recommends may vary according to how badly your heart was damaged, and to what degree of heart disease caused the heart attack."
+      ]
+    },
+    {
+      "head": "Prediction Algorithm",
+      "text": [
+        "Naive Bayes is a probabilistic machine learning algorithm based on the Bayes Theorem, used in a wide variety of classification tasks. Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes’ theorem with the “naive” assumption of conditional independence between every pair of features given the value of the class variable.",
+        "Since it is a probabilistic model, the algorithm can be coded up easily and the predictions made real quick. Because of this, it is easily scalable and is trditionally the algorithm of choice for real-world applications (apps) that are required to respond to user’s requests instantaneously.",
+        "Naïve Bayes model is easy to build, with no complicated iterative parameter estimation which makes it particularly useful for very smaller datasets. Bayes theorem provides a way of calculating the posterior probability, P(c|x), from P(c), P(x), and P(x|c). Naïve Bayes classifier assume that the effect of the value of a predictor (x) on a given class (c) is independent of the values of other predictors. It can be given as:",
+        "P(c|x) = P(x|c) * P(c)/P(x)",
+        "In plain English, using Bayesian probability terminology, the above equation can be written as",
+        "posterior = (prior * likelihood) / evidence."
+      ]
+    },
+    {
+      "head": "Attribute Information",
+      "text": [
+        "CHEST PAIN: ",
+        "Chest pain is an indicator of a possible heart attack, but it may also be a symptom of another condition or problem.",
+        "Typical Angina : Typical angina is the discomfort that is noted when the heart does not get enough blood or oxygen.",
+        "Atypical Angina : Atypical chest pain is a term used to describe discomfort or pain centered in the chest that is not cardiac pain, chest pain not heart related and not of burning quality.",
+        "Non-anginal Pain : A chest pain is very likely nonanginal if its duration is over 30 minutes or less than 5 seconds, it increases with inspiration, can be brought on with one movement of the trunk or arm, can be brought on by local fingers pressure, or bending forward, or it can be relieved immediately on lying down.",
+        "Asymptomatic Pain : Asymptomatic means neither causing nor exhibiting symptoms of disease.",
+        "",
+        "EXERCISE INDUCED ANGINA",
+        "It is a type of chest pain caused by reduced blood flow to the heart due to excessive exercise. Everyone who exercises regularly should recognize the symptoms that can accompany chest pain when the underlying issue is serious.",
+        "",
+        "DEPRESSION",
+        "Depression refers to a finding on an electrocardiogram, wherein the trace in the ST segment is abnormally low below the baseline. ST segment depression may be determined by measuring the vertical distance between the patient's trace and the isoelectric line at a location millimeters from the QRS complex.",
+        "",
+        "ST SEGMENT",
+        "The ST segment is the flat, isoelectric section of the ECG between the end of the S wave (the J point) and the beginning of the T wave.",
+        "The ST Segment represents the interval between ventricular depolarization and repolarization. The most important cause of ST segment abnormality (elevation or depression) is myocardial ischaemia or infarction.",
+        "Up-sloping",
+        "Flat",
+        "Down-sloping",
+        "",
+        "NUMBER OF MAJOR VESSELS COLORED BY FLOUROSCOPY",
+        "Fluoroscopy is a type of medical imaging that shows a continuous X-ray image on a monitor, much like an X-ray movie. During a fluoroscopy procedure, an X-ray beam is passed through the body.",
+        "",
+        "THALLIUM STRESS TEST",
+        "Thallium stress Test also known as Nuclear stress Text requires the injection of a tracer, commonly technicium 99M (Myoview or Cardiolyte), which is then taken up by healthy, viable myocardial cells. A camera (detector) is used afterwards to image the heart and compare segments.",
+        "Normal : Thalium Stress Test result is normal.",
+        "Fixed defect : A coronary stenosis is detected when a myocardial segment takes up the nuclear tracer at rest, but not during cardiac stress.",
+        "Reversable defect : Scarred myocardium from prior infarct will not take up tracer at all."
+      ]
+    }
+  ]
+}

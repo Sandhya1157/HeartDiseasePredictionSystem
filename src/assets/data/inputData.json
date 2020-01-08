@@ -1,0 +1,32 @@
+{  
+  "cp": {
+    "1": "Typical Angina",
+    "2": "Atypical Angina",
+    "3": "Non-anginal Pain",
+    "4": "Asymptomatic"
+  },
+  "exang": {
+    "0": "No",
+    "1": "Yes"
+  },
+  "oldpeak": {
+    "0": "less than 2",
+    "1": "more or equal to 2"
+  },
+  "slope": {
+    "1": "Up-sloping",
+    "2": "Flat",
+    "3": "Down-sloping"
+  },
+  "ca": {
+    "0": "0 vessels",
+    "1": "1 vessel",
+    "2": "2 vessels",
+    "3": "3 vessels"
+  },
+  "thal": {
+    "3": "Normal",
+    "6": "Fixed Defect",
+    "7": "Reversible Defect"
+  }
+}
